@@ -52,7 +52,7 @@ I am looking to practice and learn CSS. I am a backend developer and CSS is defi
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nhaydon70)
+- Frontend Mentor - [@nhaydon70](https://www.frontendmentor.io/profile/nhaydon70)
 - Twitter - [@signia70](https://www.twitter.com/signia70)
 
 ## Acknowledgments
